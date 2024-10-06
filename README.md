@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am Akshay Nair
+A learner interested in learning new things.
 <!--
 **Akshay-Nair2005/Akshay-Nair2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
