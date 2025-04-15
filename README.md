@@ -37,7 +37,7 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Akshay-Nair2005&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Akshay-Nair2005)](https://git.io/streak-stats)
 
 ---
 
