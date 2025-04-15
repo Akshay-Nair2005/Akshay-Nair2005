@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Akshay Nair!
 
 💻 Full Stack Developer | 🌐 Open Source Enthusiast | 🚀 Tech Explorer
 
@@ -23,9 +23,9 @@
 
 ## 📊 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay-Nair2005&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Nair2005&layout=compact&theme=radical)
 
 ---
 
