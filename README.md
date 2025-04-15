@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Akshay Nair!
 
-💻 Full Stack Developer | 🌐 Open Source Enthusiast | 🚀 Tech Explorer
+💻 Full Stack Developer | 🚀 Tech Explorer
 
 ---
 
@@ -27,11 +27,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Nair2005&layout=compact&theme=radical)
 
----
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akshay-Nair2005&theme=radical)](https://git.io/streak-stats)
 
 ---
 
