@@ -35,12 +35,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Akshay-Nair2005)](https://git.io/streak-stats)
-
----
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Akshay-Nair2005&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
