@@ -51,5 +51,5 @@
 ## ⚡ Fun Facts
 
 - 🌱 I'm currently learning 3js 
-- 🛠️ Building cool things with Vue, React & Appwrite
+- 🛠️ Building cool apps with Vue, React
 
