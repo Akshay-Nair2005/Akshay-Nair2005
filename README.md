@@ -50,6 +50,6 @@
 
 ## ⚡ Fun Facts
 
-- 🌱 I'm currently learning 3js 
+- 🌱 I'm currently learning Nest js
 - 🛠️ Building cool apps with Vue, React
 
