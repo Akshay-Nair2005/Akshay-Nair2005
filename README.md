@@ -35,6 +35,17 @@
 
 ---
 
+
+
+
+## 📊 **GitHub Analytics**
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-Nair2005&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+</div>
+
+
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Akshay-Nair2005&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
@@ -44,12 +55,10 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/akshay-a-nair-052b14250/)
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=Akshay-Nair2005&style=for-the-badge&color=blueviolet&label=VIEWS)
 ---
 
 ## ⚡ Fun Facts
 
 - 🌱 I'm currently learning Nest js
 - 🛠️ Building cool apps with Vue, React
-
